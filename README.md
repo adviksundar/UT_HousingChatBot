@@ -1,4 +1,4 @@
-# UT_HousingChatBot 🏠💬
+# UT_HousingChatBot
 
 A natural language chatbot that helps UT Austin students explore housing options in West Campus. It processes conversational queries and returns relevant listings using scraped Zillow data and a locally run LLaMA-2 model, presented through an interactive Gradio interface.
 
@@ -52,7 +52,7 @@ This version integrates:
 
 ### Download the LLaMA Model File (.gguf)
 
-Same as before — manually download from:  
+Manually download from:  
 **TheBloke/Llama-2-7B-Chat-GGUF** on Hugging Face
 
 > Model to download:  
